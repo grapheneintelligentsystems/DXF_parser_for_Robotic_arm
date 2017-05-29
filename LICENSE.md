@@ -1,2 +1,2 @@
 
-Copyright (C) 2017 grapheneintelligentsystems
+Copyright (C) 2017 grapheneintelligentsystems-Michail J. Beliatis
